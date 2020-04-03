@@ -1,0 +1,23 @@
+{
+  "name": "sdkramer-palindrome",
+  "version": "0.1.0",
+  "description": "Palindrome tester",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdkramer/Palindrome.git"
+  },
+  "keywords": [
+    "palindrome",
+    "javascript"
+  ],
+  "author": "Sean Kramer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdkramer/Palindrome/issues"
+  },
+  "homepage": "https://github.com/sdkramer/Palindrome#readme"
+}
